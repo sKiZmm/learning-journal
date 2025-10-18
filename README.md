@@ -21,6 +21,7 @@ This project is an Excel-based tracker to help me monitor and organise my learni
 ## 📂 File in this Repo  
 - `LearningRoadmapTracker.xlsx` — the Excel file used to track tasks, status, progress.  
 - `README.md` — describes the project and how to use it.
+- `Day Files` — journal files from different days of the learning progress.
 
 ## 🛠️ How to Use  
 1. Open the Excel file.  
