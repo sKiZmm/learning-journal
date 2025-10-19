@@ -1,7 +1,7 @@
 # Learning Roadmap Tracker
 
 ## 📘 Overview  
-This project is an Excel-based tracker to help me monitor and organise my learning progress. It is designed especially for coding, cybersecurity, and development skills as I follow my personal roadmap.
+This project helps me monitor and organise my learning progress. It is designed especially for coding, cybersecurity, and development skills as I follow my personal roadmap.
 
 ## ✅ Purpose  
 - Provide a structured way to see what phases I’m working on and what’s next.  
@@ -22,13 +22,6 @@ This project is an Excel-based tracker to help me monitor and organise my learni
 - `LearningRoadmapTracker.xlsx` — the Excel file used to track tasks, status, progress.  
 - `README.md` — describes the project and how to use it.
 - `Day Files` — journal files from different days of the learning progress.
-
-## 🛠️ How to Use  
-1. Open the Excel file.  
-2. Review the list of tasks under each Phase.  
-3. When you begin a task: mark **Status** as “In Progress”.  
-4. Once completed: mark **Done?** and update any notes/reflections.  
-5. Regularly revisit and update the tracker to stay accountable.
 
 ## 📝 Notes  
 - Each task represents a concrete step in my learning plan.  
