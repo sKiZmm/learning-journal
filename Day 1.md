@@ -1,4 +1,4 @@
-# Day 1 – 2025-10-19
+# Day 1 – 10-19-2025
 
 ## 🕐 1:04 AM – Learning Session  
 **Platform:** LearnPython.org  
@@ -75,6 +75,6 @@
 
 ---
 
-## 🕓8:29 AM - Break
+# 🕓8:29 AM - Day End
 
 ---
