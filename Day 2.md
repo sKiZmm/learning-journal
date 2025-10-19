@@ -35,3 +35,4 @@
 **What I Learned:**
 
 **Overview:**
+> I have a glitchy laptop screen and glitches every few seconds, removing my ability to see and read what's on the screen clearly. Downloaded SpaceDesk to mirror my laptop screen onto my phone. This way I can see clearly without any interruptions, even if it's small. Kinda laggy, but works fine!
