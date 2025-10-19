@@ -45,7 +45,7 @@
 - Syntax Errors
 
 **Overview:**
-> Already better than LearnPython, learned more stuff that is needed that LP did not. Gonna stick with this one for a while, unless I encounter issues. Done for the day, will continue later.
+> Already better than LearnPython, learned more stuff that is needed that LP did not. Gonna stick with this one for a while, unless I encounter issues, will continue later.
 
 ---
 
@@ -66,9 +66,7 @@
 - Expressions in definitions
 
 **Notes:**
-> "Think of a name for the variable that will store "the number of the king's siblings".
-
-Write it down in a notebook or email it to yourself. Don't put anything in there except the name of the variable. And in a few lessons, we'll come back to this topic."
+> 'Think of a name for the variable that will store "the number of the king's siblings". Write it down in a notebook or email it to yourself. Don't put anything in there except the name of the variable. And in a few lessons, we'll come back to this topic.'
 
 - 'kingSibs' (Following a naming method I learned in HTML a while back.)
 
