@@ -33,6 +33,26 @@
 **Platform:** Code-Basics.com
 
 **What I Learned:**
+- Functions
+- Default Arguments
+- Function call - expressions
+- Functions With Varying Numbers of Parameters
+- Determinacy
+- Objects
+- Immutability
+- The call chain
+- Creating (defining) functions
+- Return values
 
 **Overview:**
-> I have a glitchy laptop screen and glitches every few seconds, removing my ability to see and read what's on the screen clearly. Downloaded SpaceDesk to mirror my laptop screen onto my phone. This way I can see clearly without any interruptions, even if it's small. Kinda laggy, but works fine!
+> I have a glitchy laptop screen and glitches every few seconds, removing my ability to see and read what's on the screen clearly. Downloaded SpaceDesk to mirror my laptop screen onto my phone. This way I can see clearly without any interruptions, even if it's small. Kinda laggy, but works fine! My head hurts from continuously looking down on my phone, I need to buy a monitor or sumn or my neck will suffer.
+
+> Translation problem on this section: `https://code-basics.com/languages/python/lessons/method-chain` The instruction are in Russian, used Google's built-in translator.
+
+> Test in this section is from another lesson: `https://code-basics.com/languages/python/lessons/return` still made it work!
+
+---
+
+## 🕐 03:23 AM - Break
+
+---
