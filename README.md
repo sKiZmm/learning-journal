@@ -18,11 +18,6 @@ This project helps me monitor and organise my learning progress. It is designed 
 | Phase 4 | Entry-Level Job & Real-World Experience: apply for SOC roles, learn workflows |
 | Phase 5 | Specialisation & Leadership: choose a niche (e.g., pentesting, incident response), advanced certs |
 
-## 📂 File in this Repo  
-- `LearningRoadmapTracker.xlsx` — the Excel file used to track tasks, status, progress.  
-- `README.md` — describes the project and how to use it.
-- `Day Files` — journal files from different days of the learning progress.
-
 ## 📝 Notes  
 - Each task represents a concrete step in my learning plan.  
 - Notes field is for reflections: what I learned, what I found challenging, what I’ll do next.  
