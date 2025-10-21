@@ -11,4 +11,10 @@
 
 > First lesson for today went from 0-100 in terms of difficulty, but will try to do it without help. `https://code-basics.com/languages/python/lessons/default-parameters` [Got it](../CodeBasics%20Tests/default_parameters.py) Spent the rest of the time learning "git" commands, had a lot of errors updating the git page, made a lot of typo in the files :3 It's hard to keep looking up and down when typing XD. I made another one, oops. Should be all good now.
 
-> Transferred the Day Files onto another folder for organization.
+> Transferred the Day Files onto another folder for organization. Will end it right here, learned only one from Python and a lot of mistakes for git. Will continue tomorrow!
+
+---
+
+# 🕐9:47 AM - Day End
+
+---
