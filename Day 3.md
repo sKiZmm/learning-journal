@@ -4,9 +4,9 @@
 **Platform:** Code-Basics.com
 
 **What I Learned:**
-- 
+- Optional Function Paremeters
 
 **Overview:**
 > Weekdays starting, which means work is starting. Have less time to study now, but will try for at least an hour or two everyday.
 
-> First lesson for today went from 0-100 in terms of difficulty, but will try to do it without help. `https://code-basics.com/languages/python/lessons/default-parameters` [Got it](CodeBasics Test\default_parameters.py)
+> First lesson for today went from 0-100 in terms of difficulty, but will try to do it without help. `https://code-basics.com/languages/python/lessons/default-parameters` [Got it](CodeBasics%20Test\default_parameters.py) Spent the rest of the time learning "git" commands.
