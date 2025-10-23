@@ -22,6 +22,8 @@
 ## 🕐08:16 AM - Power Lost
 > Lost power in the house, which means no internet, which means no learning for now :(
 
+> Power went back up when I was sleeping, onto the next day.
+
 ---
 
 
