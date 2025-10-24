@@ -6,7 +6,6 @@
 **What I Learned:**
 - Named Arguments
 - Type Annotations
-- 
 
 **Overview:**
 > First test:
