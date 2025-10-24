@@ -26,4 +26,10 @@
 
 ---
 
+# Day 5 – 10-23-2025
+
+>Spent the whole day 5 trying to fix the laptop screen but to no avail, sticking with the phone screen method.
+
+---
+
 
