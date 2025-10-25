@@ -31,3 +31,37 @@
 ## 🕐 11:39 PM - Break
 
 ---
+
+# 10-26-2025
+## 🕐 04:02 AM - Python
+
+**Platform:** [Code Basics](https://code-basics.com/)
+
+**Notes:**
+> [Conditions Inside The Body Loop](../CodeBasics%20Tests/conditions_inside_loops.py) `The function from the theory is case-sensitive. I.e., A' anda' are different characters from its point of view. Write a version of this function that isn't case-sensitive.` I though my code wasn't working and was confused, turns out VSCode was bugging.
+
+> [Synctatic Sugar](../CodeBasics%20Tests/synctatic_sugar.py) `Implement a function called filter_string() that takes a string and a character as input, and returns a new string with the character removed from every point in the string. Try not to use the built-in methods for working with the string in your solution.` Made it more complicated, but hey it works!
+
+> [Return from Cycles](../CodeBasics%20Tests/return_from_loops.py) `Implement a function is_contains_char() that checks case-sensitively if a string contains a specified letter.` This was easy hehe
+
+> [Cycle For](../CodeBasics%20Tests/for.py) `In a previous lesson, we already wrote the filter_string() function. Recall that it takes a string and a character as input and returns a new string in which the passed character at all its positions is removed. This time, implement this function using the for loop. An additional condition: the case of the character to be eliminated does not matter.` A little harder but it's all good
+
+> [For loop and range function](../CodeBasics%20Tests/for_in_range.py) `Implement the print_table_of_squares(from, to) function that prints squares of numbers to the screen. It first from and last to a number prints the string square of <number> is <result>` Code works, but tests are different again ugh.
+
+> ```python
+> def test():
+>     assert fizzbuzz(1) == "1"
+>     assert fizzbuzz(3) == "1 2 Fizz"
+>     assert fizzbuzz(5) == "1 2 Fizz 4 Buzz"
+>     assert fizzbuzz(15) == "1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz"
+> ```
+
+> Code above is the test, I don't even know what the fuck the fizzbuzz function is. Gonna have to rely on ChatGPT for this one, just to find the instructions. `print/return a sequence from 1 to n, replacing multiples of 3 with “Fizz”, multiples of 5 with “Buzz”, and multiples of both 3 and 5 with “FizzBuzz”.` said GPT. [FizzBuzz](../CodeBasics%20Tests/fizz_buzz.py) Had to use GPT again to figure out why my code wasn't passing the test, even though it was right. Turns out I was using print() instead of return smh.
+
+> CodeBasics Python Course Completed! Yippee!
+
+---
+
+## 🕐 5:21 AM - Break
+
+---
