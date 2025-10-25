@@ -33,9 +33,17 @@
 ---
 
 # 10-26-2025
+
 ## 🕐 04:02 AM - Python
 
 **Platform:** [Code Basics](https://code-basics.com/)
+
+**What I Learned:**
+- Conditions Inside the Body of the Loop
+- Syntactic Sugar
+- Return from cycles
+- Cycle For
+- For loop and range function
 
 **Notes:**
 > [Conditions Inside The Body Loop](../CodeBasics%20Tests/conditions_inside_loops.py) `The function from the theory is case-sensitive. I.e., A' anda' are different characters from its point of view. Write a version of this function that isn't case-sensitive.` I though my code wasn't working and was confused, turns out VSCode was bugging.
