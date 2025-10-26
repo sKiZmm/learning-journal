@@ -1,0 +1,5 @@
+text.txt has 7 lines
+text.txt has 10 words
+text.txt has 95 characters
+text.txt longest word is pneumonoultramicroscopicsilicovolcanoconioisis
+text.txt has an average word length of 9.00
