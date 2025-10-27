@@ -25,7 +25,7 @@ def count_characters(file: object) -> int:
         count += len(lines.rstrip("\n"))
     return count
 
-def write_file(text: object) -> None:
+def write_file(text: str) -> None:
     with open(r"Python Basic Project\Text File Statistics\text_summary.txt", "w+t") as f:
         f.write(text)
         f.seek(0)

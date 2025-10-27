@@ -38,3 +38,34 @@
 ## 🕐 11:27 PM - Break
 
 ---
+
+# 10-26-2025
+
+## 🕐 09:13 AM - Python
+**Notes:**
+> Second project I chose from GPT:
+> ```
+> “File-based To-Do / Task Manager CLI”
+>
+> What it does:
+>
+> Maintains a file todo.txt, each line is a task.
+>
+> Script allows user to:
+>
+> Add a task
+>
+> List tasks with numbering
+>
+> Mark a task as done (for simplicity: remove or annotate)
+>
+> Write changes back to file.
+>```
+
+> Made some progress, but the code is still not done. WIll continue tomorrow.
+
+---
+
+# 10:13 AM - Day End
+
+---
