@@ -9,7 +9,7 @@ Write changes back to file.
 
 # Create simple GUI
 def menu() -> int:
-    print("Hello, what would you like to do?")
+    print("\nHello, what would you like to do?\n")
     print("1. Display To-Do list")
     print("2. Add Task")
     print("3. Edit Task")
@@ -26,7 +26,21 @@ def display() -> None:
         print(f"\nTo Do List:\n{f.read()}\n")
     return None
 
+# Adds a task
 def add_task():
+    task_input = input("Input task: ")
+
+    with open(r"Python Basic Project\Task Manager CLI\to-do.txt", "rt") as f:
+        task_list = [ line.strip() for line in f ]
+    
+    if task_input.lower() in ( t.lower() for t in task_list ):
+        print("\nTask already exists!")
+        return
+    
+    with open(r"Python Basic Project\Task Manager CLI\to-do.txt", "at") as f:
+        f.write('\n' + task_input)
+        print("\nTask added succesfully!")
+
     return None
 
 def edit_task():
