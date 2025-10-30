@@ -1,6 +1,2 @@
-eat veggies - Completed
-feed cats - Completed
-make burger
-eat fruits - Completed
-eat hamburger
-sleep - Completed
+gurt
+gurt: yo - Completed
