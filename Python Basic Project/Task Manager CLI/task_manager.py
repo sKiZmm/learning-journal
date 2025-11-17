@@ -150,24 +150,24 @@ def delete_task() -> None:
                 continue
             break
         if choice == 'y':
-            print(f"\n\"{task_list[task_num][:12]}\" successfully deleted!\n")
+            print(f"\n\"{task_list[task_num][:-12]}\" successfully deleted!\n")
             task_list.pop(task_num)
-        return
+    else:
+        print(f"Delete \"{task_list[task_num]}\"?")
+        while True:
+            choice = input("Y/N: ").lower()
+            if choice != 'y' and choice != 'n':
+                print("Not a choice, please enter 'Y' or 'N'!")
+                continue
+            break
     
-    print(f"Delete \"{task_list[task_num]}\"?")
-    while True:
-        choice = input("Y/N: ").lower()
-        if choice != 'y' and choice != 'n':
-            print("Not a choice, please enter 'Y' or 'N'!")
-            continue
-        break
+        if choice == 'y':
+            print(f"\n\"{task_list[task_num]}\" succesfully deleted!\n")
+            task_list.pop(task_num)
     
-    if choice == 'y':
-        print(f"\n\"{task_list[task_num]}\" succesfully deleted!\n")
-        task_list.pop(task_num)
-
     with open(todo_file, "wt") as f:
-        f.write('\n'.join(task_list))
+            f.write('\n'.join(task_list))
+            
     return
 
 while True:
