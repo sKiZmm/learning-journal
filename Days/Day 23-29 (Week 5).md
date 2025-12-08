@@ -208,3 +208,23 @@
 - Read the first parts of the walkthrough and I did the steps correctly before. But now I have to learn LFI to RCE, which I will continue later. I am tired at this point, so will take a break and come back! CYA!
 
 ### 🕦 11:25 PM - Break
+
+## 📅 12/09/2025
+
+### 🕒 03:04 AM - Cheese CTF
+
+**Notes:**
+
+- So, I'm back after a break. My VMware keeps crashing, which I will try to fix, 'cause it's so annoying doing everything over again. For now, I will learn the LFI to RCE using php tricks and finally gain access to the machine.
+
+- I managed to exploit the LFI using a `php://filter` vulnerability. I used a tool called `php fiter chain generator` which I got from GitHub, I used tested it using a `id` command first and It works! Now to figure out how to reverse shell this.
+
+- I was stupid and generated the chain for the whole php reverse shell, my bad! I was only supposed to use a specific command and I did it the harder way. The text was so long it made my VMWare crash again XD, all my fault...
+
+- Finally gained access to the shell, after a whole lot of time, `cause while I was tryna fix my Virtual Machine, I fuckin' broke it 😭. Now, I can't use shared clipboard. But anyways, time to find the user flag.
+
+- So found the user flag but couldn't access it sooo I read a walkthrough, read it [right here](https://medium.com/@fardinzindran/cheese-ctf-tryhackme-walkthrough-a029ff082904) for the steps. Followed the exact way and got access to the user and user flag.
+
+- After 3 hours and 28 minutes, I finally got the root flag and that marks the machine as completed, it was exhausting, even with the walkthrough, I got no idea what to do and it only made sense after i did it. I thought I was supposed to get root shell, but instead I just had to read the file as root. That drained my time, anyways that's all done. CYA TMRW!
+
+### 🕡 06:36 AM - Day End
