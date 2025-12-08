@@ -180,3 +180,31 @@
 - I had to read a walkthrough about this, `cause I would've been stuck forever without it. But anyways, got the root access now and the flags and will be ending the day here. CYA TMRW!
 
 ### 🕙 10:10 AM - Day End
+
+## 📅 Day 29 - 12/08/2025
+
+### 🕣 08:36 PM - Cheese CTF
+
+**Platform:** [TryHackMe Cheese CTF](https://tryhackme.com/room/cheesectfv10)
+
+**Notes:**
+
+- Good Eve! Another session here, I want to document the steps I took here with their respective screenshots, but due to the constant flickering and flashing of the screeem, I don't think I can do that. The flickering is disruptive and I would like to minimize movement of the stuff on the display, so that I can actually see something. However, when I get a monitor for my laptop, I will document my steps in hacking a box.
+
+- So with that out of the way, today I will be hacking another box from TryHackMe. This one is called [Cheese CTF](https://tryhackme.com/room/cheesectfv10). Will get right into it!
+
+- Starting the machine now, it says we need to give 5-7 minutes to boot, so I'll let it boot for a while first. 5 minutes done, will now start penetration.
+
+- Nmap is taking a while to scan, ~15 minutes, while that scans, I will lay back and watch some videos! Holy moly, this is taking too long. I think it's because I used Script Scan. Will scan again and just use version scan to scan the address, this is 25 minutes later btw 😭
+
+- Ok, finally completed the scan. Nmap revealed... A LOT OF OPEN PORTS HOLY SHIT, so that's why it was taking so long! I don't know where to start. I'll try a the port 80 webpage first and see what I can find.
+
+- Found a login page, but no credentials yet... will use FUZZ to scout some hidden directories. My VMware crashed... my system can't handle all the stuff at once LOL. Will try adding more resources so it will not lag.
+
+- Booted back up and crashed again, ffffuckkkk! Gonna reboot again... Ok doing good so far, running the FUZZing gives me `/messages.html` which shows a php file that can get files from the server. Used that to get the `/etc/passwd` file!
+
+- I am stuck, I got the users but no passwords yet. Haven't gained access to the machine too. Might have to get help from a walkthrough again.
+
+- Read the first parts of the walkthrough and I did the steps correctly before. But now I have to learn LFI to RCE, which I will continue later. I am tired at this point, so will take a break and come back! CYA!
+
+### 🕦 11:25 PM - Break
